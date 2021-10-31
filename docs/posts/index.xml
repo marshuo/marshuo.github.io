@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on 我的一个博客小站</title>
+    <link>https://marshuo.github.io/posts/</link>
+    <description>Recent content in Posts on 我的一个博客小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Oct 2021 14:56:14 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Oct 2021 14:56:14 +0800</lastBuildDate><atom:link href="https://marshuo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://example.org/posts/first/</link>
+      <link>https://marshuo.github.io/posts/first/</link>
       <pubDate>Sun, 31 Oct 2021 14:56:14 +0800</pubDate>
       
-      <guid>http://example.org/posts/first/</guid>
+      <guid>https://marshuo.github.io/posts/first/</guid>
       <description>如何安装MySQL 这是一个测试，看看如何显示的问题</description>
     </item>
     
